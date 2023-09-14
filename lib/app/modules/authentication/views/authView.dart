@@ -41,7 +41,7 @@ class loginView extends GetView<authController> {
                     width: 250,
                     child: const Center(
                       child: Text(
-                        "login with facebook",
+                        "create new account",
                         style: TextStyle(
                             color: Colors.white,
                             fontWeight: FontWeight.bold,
@@ -64,7 +64,7 @@ class loginView extends GetView<authController> {
                     width: 250,
                     child: const Center(
                       child: Text(
-                        "login with google",
+                        "login with email",
                         style: TextStyle(
                             color: Colors.black,
                             fontWeight: FontWeight.bold,
